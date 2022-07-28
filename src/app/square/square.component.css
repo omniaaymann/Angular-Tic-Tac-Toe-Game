@@ -1,0 +1,16 @@
+
+button {
+    width: 100%;
+    height: 100%;
+    font-size: 5em !important;
+    color: #FE4773;
+    background-color: #F6D68D;
+    border: none;
+    transition: all;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 90%;
+    background-color: 80%;
+}
